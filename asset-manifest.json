@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/rod-amador.github.io/React-State-Filter/static/css/main.2d6fa606.chunk.css",
+    "main.js": "/rod-amador.github.io/React-State-Filter/static/js/main.5c5a08cd.chunk.js",
+    "main.js.map": "/rod-amador.github.io/React-State-Filter/static/js/main.5c5a08cd.chunk.js.map",
+    "runtime-main.js": "/rod-amador.github.io/React-State-Filter/static/js/runtime-main.028c0b98.js",
+    "runtime-main.js.map": "/rod-amador.github.io/React-State-Filter/static/js/runtime-main.028c0b98.js.map",
+    "static/js/2.dc68783f.chunk.js": "/rod-amador.github.io/React-State-Filter/static/js/2.dc68783f.chunk.js",
+    "static/js/2.dc68783f.chunk.js.map": "/rod-amador.github.io/React-State-Filter/static/js/2.dc68783f.chunk.js.map",
+    "index.html": "/rod-amador.github.io/React-State-Filter/index.html",
+    "static/css/main.2d6fa606.chunk.css.map": "/rod-amador.github.io/React-State-Filter/static/css/main.2d6fa606.chunk.css.map",
+    "static/js/2.dc68783f.chunk.js.LICENSE.txt": "/rod-amador.github.io/React-State-Filter/static/js/2.dc68783f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.028c0b98.js",
+    "static/js/2.dc68783f.chunk.js",
+    "static/css/main.2d6fa606.chunk.css",
+    "static/js/main.5c5a08cd.chunk.js"
+  ]
+}
